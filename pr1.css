@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
+body{
+    background-color: black;
+    color: azure;
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/008/955/065/original/purple-colorful-abstract-gradient-background-animation-video.jpg);
+    background-size: 100% 110%;
+}
+h1{
+    color:azure
+}
+.Cal{
+    border:2px rgb(0, 0, 0) solid;
+    height:500px;
+    width:400px;
+    margin-top:40px;
+    margin-right: 25px;
+    border-radius: 25px;
+    background-image: url(https://img.freepik.com/free-photo/abstract-gradient-neon-lights_23-2149279139.jpg);
+}
+.heading{
+    text-align: center;
+    font-family:Montserrat;
+}
+.gen{
+    margin-left:30px;
+    margin-top:30px;
+}
+.age{
+    padding-left:30px;
+    padding-top:17px;
+}
+.height{
+    margin-left:30px;
+    margin-top:20px;
+    display: flex;
+    flex-direction: row;
+}
+.we{
+    margin-left:30px;
+    margin-top: 10px;
+}
+.but{
+    margin-top:40px;
+    margin-left:155px;
+}
+.he-fe{
+    width: 2cm;
+    margin-right:12px;
+    margin-left:4px;
+    margin-bottom: 25px;
+}
+.result{
+    background-image: url(https://i.ytimg.com/vi/XzTCntGgNJU/maxresdefault.jpg);
+    height:122px;
+    border-radius: 25px;
+    margin-top:15px;
+    margin-left:2px;
+    margin-right:2px;
+    text-align: center;
+}
+.para{
+    font-size:20px;
+    padding-top:10px;
+    font-family:Montserrat;
+}
+.but1{
+    font-family:Montserrat;
+}
+.te{
+    font-family: Chakra Petch;
+}
+.outer{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+.box1{
+    display: 1px black solid;
+    height:500px;
+    font-family:verdana;
+    text-align:left;
+    padding:40px;
+    font-size: 16px;
+}
